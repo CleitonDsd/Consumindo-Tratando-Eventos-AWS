@@ -1,0 +1,15 @@
+{
+   "version":"0",
+   "id":"6e6b1f6d-48f8-5dff-c2d2-a6f22c2e0086",
+   "detail-type":"Alteracao Pizza",
+   "source":"com.pizza.status",
+   "account":"529761443475",
+   "time":"2021-09-23T15:35:41Z",
+   "region":"us-east-1",
+   "detail":{
+      "status":"no forno",
+      "pedido":"1234",
+      "cliente":"rafael"
+   }
+}
+aws events put-events --entries file://putEventTestpizza.json --event-bus-name pizzaria
