@@ -1,7 +1,15 @@
 # Consumindo-Tratando-Eventos-AWS
 
-## Turma: 25ABD 
 
+
+<hr> 
+
+![image](https://github.com/CleitonDsd/Consumindo-Tratando-Eventos-AWS/assets/42544892/eb933600-2790-4615-af82-07fdce609e04)
+
+
+
+
+<hr>
 
 #### Lambdas 
 ![image](https://github.com/CleitonDsd/Consumindo-Tratando-Eventos-AWS/assets/42544892/6943117b-05b5-4b2e-b06c-73018b49e862)
