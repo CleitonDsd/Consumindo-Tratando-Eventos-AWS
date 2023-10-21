@@ -1,15 +1,6 @@
 # Consumindo-Tratando-Eventos-AWS
 
 
-#### Grupo: 
-
-Adriano - 350016
-Cleiton - 348167
-Danilo - 348396
-Diego - 347992
-Edmar - 349587
-Felipe - 349117
-Sandro - 332817
 
 
 
